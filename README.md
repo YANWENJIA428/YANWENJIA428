@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # Introduction
-Hi! I'm YANWENJIA428, a student in the Software Maintenance 
+Hi! I'm YANWENJIA428, a student in the Software Maintenance  
 and Evolution course. 
 I expect to learn a lot about modern software maintenance 
 practices and how to work with legacy systems.
